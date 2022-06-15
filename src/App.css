@@ -1,0 +1,18 @@
+#header {
+  display: flex;
+}
+
+#ava {
+  position: absolute;
+  right: 0;
+}
+
+.container {
+  margin-left: 80px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.items {
+  display: flex;
+}
