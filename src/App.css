@@ -16,3 +16,12 @@
 .items {
   display: flex;
 }
+.container2 {
+  margin-left: 80px;
+  display: grid;
+  grid-template-columns: 1fr;
+}
+
+.items2 {
+  display: flex;
+}

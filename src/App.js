@@ -1,7 +1,7 @@
 import './App.css';
 import AdvSearch from './components/AdvSearch';
+import Grid from './components/Grid';
 import Header from './components/Header';
-import Table from './components/TableGrid';
 
 
 function App() {
@@ -9,7 +9,7 @@ function App() {
     <div>
       <Header />
       <AdvSearch />
-      <Table />
+      <Grid />
     </div>
   );
 }
